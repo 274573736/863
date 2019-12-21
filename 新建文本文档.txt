@@ -1,0 +1,600 @@
+分层
+servlet  数据库 model
+service 登录   	control
+
+代码，jianjie
+
+spring
+springmvc
+mybatic
+service
+service
+单例
+pojo
+prototype
+
+pojo
+prototype
+单例
+controller
+controller
+
+view
+view
+单例 性能
+单例再并发场景下有没有问题
+tomcat
+tomcat
+线程
+线程在threadlocal
+
+threadlocal
+threadlocal
+person
+乱了
+单例的列不能有状态数据
+会有线程安全为题
+加锁，影响性能
+数据并发
+threadlocal
+threadlocal没
+
+成员变量没有隔离的
+
+成员变量
+set就完蛋了
+状态数据
+
+比如 jdbc单例对象 connecttion
+connecttion
+connectiong
+connection
+物理连接setconn
+threadlocal
+
+
+threadlocal对象就一个
+线程数据，可见了
+隔离的线程，？
+单例
+spring mvc
+单例是为了性能；
+spring controller
+controller 单例 注入
+
+new出来的，
+
+throws
+throw
+throw new exception
+throw new exception exception throws Exception
+
+bean id = carFactory
+factory
+
+
+bean id = "carfactory "
+
+spring tool suite
+spring tool suite
+constructor
+constructor-arg
+constructor-arg
+
+spring boot 03
+
+
+
+ps -ef |grep nginx
+
+/home/chow/tomcat/tomcat8041   /home/chow/tomcat/tomcat-2019-11-26
+
+
+prototype
+如果没有初始化，等着，再吧，如果有没；去实例化应用实例化；
+单例模式，不做检查；
+如果是prototype 做检查；
+
+单例对象引用个体吧
+
+
+getb
+depends-on
+
+depends-on
+static final 
+
+B.dalaoName;
+Dal
+private
+
+public super
+depends-on ""
+dependon
+
+autowrite
+aotowire byType
+type byType
+
+
+default-autowire=
+<bean>
+
+autowire
+
+
+放大 类目，检索条件，广告位置；
+
+entitypublic
+controller
+controller
+校验componentzhucebing
+@ Component @ autowire
+切面编程（get set）
+
+用注解，不需要再写；
+println
+
+
+qulifier
+
+qulifier
+System.out.
+component 
+
+base-package
+base-package
+component
+saomiao component 
+什么时间
+
+new 
+
+
+
+
+
+
+
+
+分库 分表 集群 crud  orcal 不同的细节
+非常麻烦 根本就没有换过
+从来都没
+mvc  基本都没换；
+
+
+
+
+spring boot 
+
+
+spring boot
+第一个推的；
+component orm 要求对象线程安全；
+public Stirng loingname；
+private 独立的数据库；
+
+线程安全；
+对应类全是
+
+threadlocal;
+connect ;
+user;
+controller myslq；两个乱；
+
+scope
+scope prototype;
+toStringBuilder.reflectiontostring
+
+tostringbuilder.reflection
+
+
+
+
+
+
+
+始终是在改的
+
+
+controller
+service
+repository
+repository
+service
+
+controller
+service
+repository
+repository
+repo
+spring
+
+
+
+
+
+spring boot
+
+stx
+mybatis
+
+mybatis
+
+aop
+iot
+
+1、di ioc 依赖注入 
+2、aop 切面编程；  proxy  cglib  ---> 上帝视角--数据进入监控  jdk
+3、private  代理类private bath 静态代理模式；可以
+4、proxy  pro
+loader interfaces invocationhandler
+proxyinstance
+proxyInstance getClassLoader 
+InvocationHandler
+
+proxyproxy
+
+具体封装 
+eat
+静态代理；
+
+实现了  
+
+final 
+
+final
+implement
+
+implement
+
+
+intercrept
+intecrept
+
+intercrept
+
+intercept
+
+intercept
+intercept
+
+dailidui  args  args proxy  method
+methodb  cglib
+huidia
+
+callback  监听call
+
+
+CGlib  1
+设置父类；重新CGLib  当父类方法被调用的时候， 有相同的方法；
+
+子类；执行eat方法  super。eat()可以操作；
+
+
+super.easy  real
+CGLib
+
+asm
+jdk
+
+asm实现的
+
+
+asm
+实现的
+
+
+vip
+
+
+lazy spring 注册表
+
+key  value
+
+ASM
+
+
+autowire
+autowire
+
+技术记忆
+
+微信开发；
+
+
+微信开发；
+
+
+
+
+organization
+platform
+platform
+
+
+bootstrap
+
+spring initalizr
+snapshop
+默认的配置文件；
+jsp class 文件的；
+不够精确；
+j2ee
+springboot  starter spring mvc   tomcat4gekuanj
+applicationpropertis
+
+propertis
+
+spring 配置；
+
+tomcat
+
+
+大数据；
+计算向数据移动；
+
+
+资源的分配
+
+
+
+javaee web
+
+
+javase tomcat  打包；
+
+
+二次调整； 配置文件；
+
+
+
+打包成一个项目；
+
+
+
+打包依赖；
+
+
+运行环境；
+
+
+一台准备好的打包依赖；
+
+
+
+
+
+
+tomcat在我的项目已经打包好了；
+
+在项目里直接调整好了；
+自带一个tomcat；
+
+
+
+
+想想都可爽
+
+普普通通jar包；
+
+
+
+流行
+
+jianhua
+
+
+
+
+最依赖jdk
+
+非常难；
+
+
+写个shell开关；
+
+项目 隔离；做微服务；
+
+只完成一个小服务；
+
+开启一个新的服务器；
+
+
+
+
+可以做到；
+
+
+说不好；
+
+
+jdk
+jre jdk 运行池；
+
+jar  war；
+
+
+spring boot
+
+
+start.spring .io
+
+css
+js
+templates  sinf  优雅
+
+黑盒 快速的应用的我们的源代码；
+
+
+老师什么都可以给你；
+
+jar 
+war web程序用的；web 自动解压出来；
+
+jave ee 一个应用程序；当然可以关了就没了；
+
+
+
+jre  从应用级别 
+
+第二部，主要的区别，是，给web用；
+tomcat 部署在web容器的 web标准 所有的web容器自动解压；
+tomcat 本来就是java ee 的一点查
+
+
+jre  jdk里的   传到哪都可以的； 放到那都可以的 开机启动一个tomcat jar
+tomcat 装成一个服务器；
+
+套餐  jdk
+
+
+
+jdk 包核心的包 c++ 2008  
+
+跑起来，需要这些依赖；import 
+url restful 
+properties
+server.port=80
+contextpath
+
+serverlet.con.context-pathnot
+
+boot;
+	
+yaml xml
+banner.txt
+service
+controller
+pojo
+domain
+entity
+dao
+
+@componet 
+@controller
+
+restr
+responsebody
+
+
+responsebody
+
+responsebody
+
+controller
+具体方法
+
+
+public Stringlist（）{
+foler
+template;
+
+list.html
+helloworld;
+hello;world;
+
+@requestMapp
+request Mapping
+
+context-path controller
+http://localhost：80/boot/user/list
+request
+
+
+request
+request
+
+ty
+helloworld
+
+conponent 加入r到spring管理
+
+单例的
+Map<String,String> map =
+new HashMap<>()
+map.put（"",""）
+return map;josn
+
+list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+th:text=
+
+spring   
+pox
+adddevtools
+devtools
+重启服务器； 
+
+这种有问题；
+
+
+jreagexml
+jvmargument
+
+上下文html thymeleaf
+context
+前段
+
+
+context 比较白 spring
+
+
+thymeleaf
+
+
+1、广告类目管理；
+2、广告图片及连接管理；
+
+3、机构订单分账管理；40%
+4、平台分账管理；
+5、收入分成结算管理；
+======
+建科院，系统不管用；研究回复；
+天下石保价费比例接口开发；
+
+
+
+
+
+
+
+2300+1900 +5000==9200
+
+
+16697+8285+28055
+
+
+
+结算主表 account
+
+id 月份 month 机构名称 organization 机构organizationid 订单数量 amount 订单额度 sum 结算日期 balance_date 结算状态 settlement_status 操作员
+
+明细表 account_detailed
+
+id 主表accountid 订单orderid
+
+
+
+
+
+
+
+
+
+
+
+
